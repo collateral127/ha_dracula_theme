@@ -54,7 +54,7 @@ Dracula:
   state-off-color: var(--dracula-red)
   state-home-color: var(--dracula-green)
   state-not_home-color: var(--dracula-red)
-  state-unknown-color: git var(--unknown-color)
+  state-unknown-color: var(--unknown-color)
   state-icon-active-color: var(--primary-text-color)
   state-icon-color: var(--light-primary-color)
   state-icon-unavailable-color: var(--dracula-selection)
