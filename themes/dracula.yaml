@@ -27,7 +27,7 @@ Dracula:
   tertiary-background-color: '#21222b'
   secondary-text-color: '#6572a0'
   text-primary-color: '#f8f8f2'
-  divider-color: '#191a20'
+  divider-color: var(--dracula-selection)
   unknown-color: '#777775'
   accent-color: var(--primary-color)
   # Header Colours
